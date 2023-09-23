@@ -99,3 +99,16 @@ body {
     width: 130px;
     border-radius: 50%;
 }
+@media screen and (max-width : 768px) {
+    body {
+        background-color: aqua;
+    }
+    .smiley1 {
+        top: 25%;
+        left: 50%;
+    }
+    .smiley2 {
+        top: 75%;
+        left: 50%;
+    }
+}
